@@ -1,0 +1,11 @@
+# Printing-that-given-number-is-a-prime-or-not-using-python
+a=int(input("enter the number "))
+flag=0
+for i in range(1,a+1):
+    if a%i==0:
+        flag=1
+        break;
+if flag==1:
+    print("not prime")
+else:
+    print("prime")

@@ -1,1 +1,0 @@
-# Printing-that-given-number-is-a-prime-or-not-using-python
